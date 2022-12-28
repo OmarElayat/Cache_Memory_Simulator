@@ -47,4 +47,4 @@ To implement all Cache memory simulator. Some assumptions and design decisions h
 ![image](https://user-images.githubusercontent.com/107650627/209873775-be3ce0cc-94ac-4043-b054-1ccf1d101f50.png)
 
 
-***You can two of the sequences we tried on our project attached***
+***You can find two of the sequences we tried on our project attached***
