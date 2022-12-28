@@ -23,12 +23,12 @@ To implement all Cache memory simulator. Some assumptions and design decisions h
 
 **General Note:** 
 
-*	All the programs are in a folder called “programs”. In order to run them:
-  *  Move the two sequence files of the program you want to run to the same location as the source.cpp file.
-  *  Write the name of the sequence you want to run in the main.
-  *  Input the instruction cache size, length, and cycles needed for accessing the memory.
-  *  Enter the data cache size, length, and cycles needed for accessing the memory. 
-*	You can find the .csv output files produced in the same directory.
+1)	All the programs are in a folder called “programs”. In order to run them:
+ * Move the two sequence files of the program you want to run to the same location as the source.cpp file.
+ * Write the name of the sequence you want to run in the main.
+ * Input the instruction cache size, length, and cycles needed for accessing the memory.
+ * Enter the data cache size, length, and cycles needed for accessing the memory. 
+2)	You can find the .csv output files produced in the same directory.
 
 **Instructions Cache output by sequence (sequence2):**
 
